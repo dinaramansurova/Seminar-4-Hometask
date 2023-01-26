@@ -1,0 +1,15 @@
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\bin\Debug\net6.0\Задача25.exe
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\bin\Debug\net6.0\Задача25.deps.json
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\bin\Debug\net6.0\Задача25.runtimeconfig.json
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\bin\Debug\net6.0\Задача25.dll
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\bin\Debug\net6.0\Задача25.pdb
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\obj\Debug\net6.0\Задача25.csproj.AssemblyReference.cache
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\obj\Debug\net6.0\Задача25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\obj\Debug\net6.0\Задача25.AssemblyInfoInputs.cache
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\obj\Debug\net6.0\Задача25.AssemblyInfo.cs
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\obj\Debug\net6.0\Задача25.csproj.CoreCompileInputs.cache
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\obj\Debug\net6.0\Задача25.dll
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\obj\Debug\net6.0\refint\Задача25.dll
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\obj\Debug\net6.0\Задача25.pdb
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\obj\Debug\net6.0\Задача25.genruntimeconfig.cache
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Домашка\Задачи\Задача25\obj\Debug\net6.0\ref\Задача25.dll
